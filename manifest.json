@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Vyntr search",
+  "version": "1.0",
+  "description": "Change default search engine to Vyntr search.",
+  "icons": {
+    "16": "images/icon16.png",
+    "19": "images/icon19.png",
+    "38": "images/icon38.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Vyntr",
+      "keyword": "vyntr.com",
+      "favicon_url": "https://vyntr.com/favicon.ico",
+      "search_url": "https://vyntr.com/search?q={searchTerms}",
+      "encoding": "UTF-8",
+      "is_default": true
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.vyntr.com/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
