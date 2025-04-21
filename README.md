@@ -13,7 +13,7 @@
 
 4. Click **Load unpacked**
 
-5. Select the folder where you cloned the extension
+5. Select the folder where you cloned the extension (should be 'vyntr-search-extension')
 
 6. Done! Try searching something in the adress bar.
 
