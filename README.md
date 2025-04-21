@@ -13,7 +13,7 @@
 
 4. Click **Load unpacked**
 
-5. Select the folder where you cloned the extension (should be 'vyntr-search-extension')
+5. Select the folder where you cloned the extension (should be `vyntr-search-extension`)
 
 6. Done! Try searching something in the adress bar.
 
@@ -21,7 +21,7 @@
 
 1. Go to [chrome://extensions/](chrome://extensions/)
 
-2. Find the 'Vyntr search' extension
+2. Find the `Vyntr search` extension
 
 3. Click the switch to disable it
 
