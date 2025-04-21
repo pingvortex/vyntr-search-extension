@@ -7,7 +7,7 @@
    git clone https://github.com/pingvortex/vyntr-search-extension.git
    ```
 
-2. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
+2. Open Chrome and go to `chrome://extensions/`
 
 3. Enable **Developer mode** (top right)
 
@@ -19,7 +19,7 @@
 
 ## Disable
 
-1. Go to [chrome://extensions/](chrome://extensions/)
+1. Go to `chrome://extensions/`
 
 2. Find the `Vyntr search` extension
 
