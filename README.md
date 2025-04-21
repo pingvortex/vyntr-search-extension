@@ -1,0 +1,1 @@
+# vyntr-search-extension
