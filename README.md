@@ -7,7 +7,7 @@
    git clone https://github.com/pingvortex/vyntr-search-extension.git
    ```
 
-2. Open Chrome and go to `chrome://extensions/`
+2. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
 
 3. Enable **Developer mode** (top right)
 
@@ -16,6 +16,16 @@
 5. Select the folder where you cloned the extension (should be 'vyntr-search-extension')
 
 6. Done! Try searching something in the adress bar.
+
+## Disable
+
+1. Go to [chrome://extensions/](chrome://extensions/)
+
+2. Find the 'Vyntr search' extension
+
+3. Click the switch to disable it
+
+4. Done.
 
 ## 📄 License
 
