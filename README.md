@@ -3,9 +3,7 @@
 ##  Install (Chrome - Developer Mode)
 
 1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/pingvortex/vyntr-search-extension.git
-   ```
+   <a href="">Download link here</a>
 
 2. Open Chrome and go to `chrome://extensions/`
 
