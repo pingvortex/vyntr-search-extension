@@ -3,6 +3,9 @@
 ##  Install (Chrome - Developer Mode)
 
 1. Download or clone this repository:
+   <a href="http://github.com/rhhen122/vyntr-search-extension/archive/refs/tags/v1.0.zip">Download link here</a>
+   
+   Or `git clone` it:
    ```bash
    git clone https://github.com/pingvortex/vyntr-search-extension.git
    ```
